@@ -114,8 +114,8 @@ The dataset includes comprehensive transaction records with the following metric
 ```bash
 # Download Power BI Desktop
 # Clone this repository
-git clone https://github.com/pouryare/supermarket-sales-dashboard.git
-cd supermarket-sales-dashboard
+git clone https://github.com/pouryare/Super-Market-Sales-Analysis.git
+cd Super-Market-Sales-Analysis
 
 # Open the .pbix file
 # Connect to your data source
@@ -125,7 +125,7 @@ cd supermarket-sales-dashboard
 ## 📁 File Structure
 
 ```
-📦 supermarket-sales-dashboard
+📦 Super-Market-Sales-Analysis
  ┣ 📂 data/
  ┃ ┗ 📜 supermarket_sales.csv
  ┣ 📷 screenshot.png
